@@ -8,17 +8,17 @@ Dataset
 
 The dataset contains laboratory urine measurements such as:
 
-specific gravity (gravity)
+- specific gravity (gravity)
 
-pH level (ph)
+- pH level (ph)
 
-osmolality (osmo)
+- osmolality (osmo)
 
-conductivity (cond)
+- conductivity (cond)
 
-urea concentration (urea)
+- urea concentration (urea)
 
-calcium concentration (calc)
+- calcium concentration (calc)
 
 Target variable:
 
